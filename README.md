@@ -1,3 +1,3 @@
 # Learn RDKit
 
-Notes about learning RDKit.
+Learning RDKit.
